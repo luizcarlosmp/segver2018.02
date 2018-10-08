@@ -1,0 +1,6 @@
+{
+	{
+	    "user":"common"
+	    "admin": "administrador",
+
+	}    
